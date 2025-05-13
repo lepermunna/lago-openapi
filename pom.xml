@@ -9,7 +9,7 @@
         <plugin>
             <groupId>org.openapitools</groupId>
             <artifactId>openapi-generator-maven-plugin</artifactId>
-            <version>7.9.0</version> <!-- Adjust to your version -->
+            <version>7.13.0</version> <!-- Adjust to your version -->
             <executions>
                 <execution>
                     <goals>
